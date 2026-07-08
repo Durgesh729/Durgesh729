@@ -113,6 +113,81 @@ I'm always open to **internships**, **collaborations**, and opportunities where 
 <img src="https://img.shields.io/badge/Kiro-00B4D8?style=for-the-badge"/>
 
 </p>
+## Featured Projects
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="50%" align="center">
+
+### 🛡️ Dataset Poisoning Detection System
+
+*AI-powered security solution for Machine Learning datasets.*
+
+Detects malicious or corrupted data before model training, helping improve model reliability and protect ML pipelines from data poisoning attacks.
+
+**Tech Stack**
+
+`Python` • `TensorFlow` • `Scikit-Learn` • `NumPy`
+
+</td>
+
+<td width="50%" align="center">
+
+### 🎓 Multi-Tier Academic Workflow with RBAC
+
+*Role-Based Academic Management Platform.*
+
+A secure workflow system that manages students, faculty, HODs, and administrators with Role-Based Access Control (RBAC), authentication, and approval workflows.
+
+**Tech Stack**
+
+`Python` • `FastAPI` • `PostgreSQL`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+### 💳 Loan Approval Prediction
+
+*Machine Learning based loan eligibility prediction.*
+
+Analyzes applicant information to predict loan approval using data preprocessing, visualization, and classification models for accurate decision making.
+
+**Tech Stack**
+
+`Python` • `Pandas` • `Matplotlib` • `Scikit-Learn`
+
+</td>
+
+<td width="50%" align="center">
+
+### 📊 Sales Analytics & Predictive Forecasting Platform
+
+*Business intelligence and forecasting dashboard.*
+
+Transforms historical sales data into actionable insights with interactive analytics, trend visualization, and predictive forecasting for smarter business decisions.
+
+**Tech Stack**
+
+`Python` • `Pandas` • `Matplotlib` • `TensorFlow`
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" width="100%"/>
 
 </td>
 
