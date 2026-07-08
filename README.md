@@ -25,6 +25,7 @@
 </a>
 
 </p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" width="100%"/>
 ## About Me
 
 <div align="center">
