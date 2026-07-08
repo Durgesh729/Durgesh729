@@ -52,5 +52,70 @@ I'm always open to **internships**, **collaborations**, and opportunities where 
 </table>
 
 </div>
+## Tech Stack & Tools
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="25%" align="center">
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150"/>
+
+</td>
+
+<td width="75%">
+
+### Programming
+
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=python,github&theme=dark" />
+</a>
+</p>
+
+### AI & Data Science
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+</p>
+
+### Backend
+
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=fastapi,postgres&theme=dark" />
+</a>
+</p>
+
+### Developer Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Antigravity-6C63FF?style=for-the-badge"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://img.shields.io/badge/Kiro-00B4D8?style=for-the-badge"/>
+
+</p>
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
