@@ -113,78 +113,65 @@ I'm always open to **internships**, **collaborations**, and opportunities where 
 <img src="https://img.shields.io/badge/Kiro-00B4D8?style=for-the-badge"/>
 
 </p>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" width="100%"/>
 ## Featured Projects
 
 <div align="center">
 
-<table>
-
-<tr>
-
-<td width="50%" align="center">
+<div>
 
 ### 🛡️ Dataset Poisoning Detection System
 
-*AI-powered security solution for Machine Learning datasets.*
-
-Detects malicious or corrupted data before model training, helping improve model reliability and protect ML pipelines from data poisoning attacks.
+AI-powered security system that detects poisoned or manipulated datasets before model training, helping improve data integrity and model reliability.
 
 **Tech Stack**
 
 `Python` • `TensorFlow` • `Scikit-Learn` • `NumPy`
 
-</td>
+</div>
 
-<td width="50%" align="center">
+<br>
+
+<div>
 
 ### 🎓 Multi-Tier Academic Workflow with RBAC
 
-*Role-Based Academic Management Platform.*
-
-A secure workflow system that manages students, faculty, HODs, and administrators with Role-Based Access Control (RBAC), authentication, and approval workflows.
+A role-based academic management platform featuring secure authentication, approval workflows, and hierarchical access control for educational institutions.
 
 **Tech Stack**
 
 `Python` • `FastAPI` • `PostgreSQL`
 
-</td>
+</div>
 
-</tr>
+<br>
 
-<tr>
-
-<td width="50%" align="center">
+<div>
 
 ### 💳 Loan Approval Prediction
 
-*Machine Learning based loan eligibility prediction.*
-
-Analyzes applicant information to predict loan approval using data preprocessing, visualization, and classification models for accurate decision making.
+A Machine Learning application that predicts loan approval using customer and financial data with preprocessing, visualization, and classification techniques.
 
 **Tech Stack**
 
 `Python` • `Pandas` • `Matplotlib` • `Scikit-Learn`
 
-</td>
+</div>
 
-<td width="50%" align="center">
+<br>
+
+<div>
 
 ### 📊 Sales Analytics & Predictive Forecasting Platform
 
-*Business intelligence and forecasting dashboard.*
-
-Transforms historical sales data into actionable insights with interactive analytics, trend visualization, and predictive forecasting for smarter business decisions.
+An analytics dashboard that transforms historical sales data into business insights through interactive visualizations and predictive forecasting.
 
 **Tech Stack**
 
 `Python` • `Pandas` • `Matplotlib` • `TensorFlow`
 
-</td>
-
-</tr>
-
-</table>
+</div>
 
 </div>
 
