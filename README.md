@@ -53,6 +53,8 @@ I'm always open to **internships**, **collaborations**, and opportunities where 
 </table>
 
 </div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" width="100%"/>
+
 ## Tech Stack & Tools
 
 <div align="center">
