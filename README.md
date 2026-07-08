@@ -34,26 +34,17 @@
 
 <td width="65%" valign="top">
 
-I am a passionate and growth-driven **Computer Science Engineering (Artificial Intelligence & Machine Learning)** student dedicated to building intelligent software solutions that solve real-world problems.
+I'm a Computer Science Engineering student specializing in **Artificial Intelligence & Machine Learning**, passionate about building intelligent applications and solving real-world problems.
 
-With a strong foundation in **Python**, **Machine Learning**, and **Backend Development**, I enjoy transforming ideas into scalable applications while continuously exploring emerging technologies in Artificial Intelligence.
+I enjoy working with **Python**, **Machine Learning**, and **Backend Development**, and I'm always learning new technologies to improve my skills. Currently, I'm exploring **FastAPI**, **TensorFlow**, **Scikit-Learn**, and **PostgreSQL** through practical projects.
 
-Currently, I am expanding my expertise through hands-on projects involving **FastAPI**, **TensorFlow**, **Scikit-Learn**, and **PostgreSQL**, with a focus on developing secure, data-driven, and production-ready systems.
-
-### Highlights
-
-- 🎓 Pursuing **Bachelor of Engineering in Computer Science Engineering (AIML)**
-- 🧠 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Software Development**
-- 🐍 Skilled in **Python**, **NumPy**, **Pandas**, **Matplotlib**, and **Object-Oriented Programming**
-- ⚙️ Experienced with **FastAPI**, **PostgreSQL**, and **GitHub**
-- 📚 Dedicated to continuous learning and adapting to modern technologies
-- 🤝 Open to **Internships**, **Collaborations**, and exciting development opportunities
+I'm always open to **internships**, **collaborations**, and opportunities where I can learn, contribute, and grow as a developer.
 
 </td>
 
 <td width="35%" align="center">
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2N0YzY3dXNhNmdjOW9nN3N3Y3pnMG1yNnFwcDJlN2NrY2Y1M2M1NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="250"/>
+<img src="YOUR_GIF_OR_IMAGE_HERE" width="240"/>
 
 </td>
 
@@ -63,7 +54,3 @@ Currently, I am expanding my expertise through hands-on projects involving **Fas
 </div>
 
 ---
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" width="100%"/>
-
-</div>
