@@ -45,7 +45,7 @@ I'm always open to **internships**, **collaborations**, and opportunities where 
 
 <td width="35%" align="center">
 
-<img src="YOUR_GIF_OR_IMAGE_HERE" width="240"/>
+<img src="assets/giphy.gif" width="240"/>
 
 </td>
 
