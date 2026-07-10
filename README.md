@@ -62,21 +62,21 @@ I'm always open to **internships**, **collaborations**, and opportunities where 
 <table>
 <tr>
 
-<td width="25%" align="center">
+<td width="22%" align="center">
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150"/>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="160"/>
 
 </td>
 
-<td width="75%">
+<td width="78%">
 
 ### Programming
 
 <p align="center">
-<a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=python,github&theme=dark" />
-</a>
 </p>
+
+---
 
 ### AI & Data Science
 
@@ -88,19 +88,23 @@ I'm always open to **internships**, **collaborations**, and opportunities where 
 
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 
+<br><br>
+
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 
 </p>
 
+---
+
 ### Backend
 
 <p align="center">
-<a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=fastapi,postgres&theme=dark" />
-</a>
 </p>
+
+---
 
 ### Developer Tools
 
@@ -108,11 +112,20 @@ I'm always open to **internships**, **collaborations**, and opportunities where 
 
 <img src="https://img.shields.io/badge/Antigravity-6C63FF?style=for-the-badge"/>
 
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
 <img src="https://img.shields.io/badge/Kiro-00B4D8?style=for-the-badge"/>
 
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" />
+
 </p>
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" width="100%"/>
 ## Featured Projects
