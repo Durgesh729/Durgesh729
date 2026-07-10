@@ -57,67 +57,57 @@ I'm always open to **internships**, **collaborations**, and opportunities where 
 
 ## Tech Stack & Tools
 
-<div align="center">
-
-<table>
+<table align="center">
 <tr>
 
-<td width="22%" align="center">
+<td align="center" width="32%" valign="middle">
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="160"/>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="180"/>
 
 </td>
 
-<td width="78%">
+<td width="68%" valign="middle">
 
-### Programming
+<h3 align="center">Programming</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,github&theme=dark"/>
 </p>
 
----
+<br>
 
-### AI & Data Science
+<h3 align="center">AI & Data Science</h3>
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+</p>
 
-<br><br>
-
+<p align="center">
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-
 </p>
 
----
+<br>
 
-### Backend
+<h3 align="center">Backend</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=fastapi,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=fastapi,postgres&theme=dark"/>
 </p>
 
----
+<br>
 
-### Developer Tools
+<h3 align="center">Developer Tools</h3>
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/Antigravity-6C63FF?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Kiro-00B4D8?style=for-the-badge"/>
+</p>
 
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=vscode&theme=dark" />
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark"/>
 </p>
 
 </td>
@@ -125,8 +115,7 @@ I'm always open to **internships**, **collaborations**, and opportunities where 
 </tr>
 </table>
 
-</div>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" width="100%"/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" width="100%"/>
 ## Featured Projects
 
