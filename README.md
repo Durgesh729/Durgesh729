@@ -72,13 +72,13 @@ I'm always open to **internships**, **collaborations**, and opportunities where 
       <h3 align="center">AI, Data Science & Backend</h3>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=fastapi,mysql&theme=dark" alt="Backend & AI"/>
+          <img src="https://skillicons.dev/icons?i=fastapi,mysql,numpy,pandas,matplotlib&theme=dark" alt="Backend & AI"/>
         </a>
       </p>
       <h3 align="center">Frontend & Cloud Tools</h3>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=html,css,vercel,git,vscode&theme=dark" alt="Frontend & Cloud"/>
+          <img src="https://skillicons.dev/icons?i=html,css,vercel,git,vscode,Docker&theme=dark" alt="Frontend & Cloud"/>
         </a>
       </p>
     </td>
