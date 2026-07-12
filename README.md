@@ -87,7 +87,6 @@ I'm always open to **internships**, **collaborations**, and opportunities where 
 </table>
 
 <br>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" width="100%"/>
 </div>
