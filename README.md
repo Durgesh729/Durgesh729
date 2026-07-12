@@ -78,7 +78,7 @@ I'm always open to **internships**, **collaborations**, and opportunities where 
       <h3 align="center">Frontend & Cloud Tools</h3>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=react,html,css,vercel,git,vscode&theme=dark" alt="Frontend & Cloud"/>
+          <img src="https://skillicons.dev/icons?i=html,css,vercel,git,vscode&theme=dark" alt="Frontend & Cloud"/>
         </a>
       </p>
     </td>
