@@ -36,7 +36,6 @@
 <td width="65%" valign="top">
 
 I'm a Computer Science Engineering student specializing in **Artificial Intelligence & Machine Learning**, passionate about building intelligent applications and solving real-world problems.
-
 I enjoy working with **Python**, **Machine Learning**, and **Backend Development**, and I'm always learning new technologies to improve my skills. Currently, I'm exploring **FastAPI**, **TensorFlow**, **Scikit-Learn**, and **PostgreSQL** through practical projects.
 
 I'm always open to **internships**, **collaborations**, and opportunities where I can learn, contribute, and grow as a developer.
