@@ -73,13 +73,24 @@ I'm always open to **internships**, **collaborations**, and opportunities where 
       <h3 align="center">AI, Data Science & Backend</h3>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=fastapi,mysql,numpy,pandas,matplotlib&theme=dark" alt="Backend & AI"/>
+          <p align="center">
+
+<img src="https://skillicons.dev/icons?i=fastapi,mysql&theme=dark"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48"/>
+
+</p>
         </a>
       </p>
       <h3 align="center">Frontend & Cloud Tools</h3>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=html,css,vercel,git,vscode,Docker&theme=dark" alt="Frontend & Cloud"/>
+          <img src="https://skillicons.dev/icons?i=html,css,vercel,git,vscode&theme=dark" alt="Frontend & Cloud"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48"/>
         </a>
       </p>
     </td>
@@ -93,62 +104,83 @@ I'm always open to **internships**, **collaborations**, and opportunities where 
 
 ## Featured Projects
 
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+<h3>🛡️ Dataset Poisoning Detection System</h3>
+
+<i>AI-powered security solution for Machine Learning datasets</i>
+
+<br><br>
+
+Detects poisoned or manipulated datasets before model training, helping improve data integrity and improve the reliability of Machine Learning models.
+
+<br><br>
+
+<b>Stack:</b> Python • TensorFlow • Scikit-Learn • NumPy
+
+</td>
+
+<td width="50%" align="center">
+
+<h3>🎓 Multi-Tier Academic Workflow with RBAC</h3>
+
+<i>Role-Based Academic Management Platform</i>
+
+<br><br>
+
+A secure academic workflow system featuring Role-Based Access Control (RBAC), authentication, approval workflows, and hierarchical access management.
+
+<br><br>
+
+<b>Stack:</b> Python • FastAPI • PostgreSQL
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+<h3>💳 Loan Approval Prediction</h3>
+
+<i>Machine Learning based loan eligibility prediction</i>
+
+<br><br>
+
+Predicts loan approval using customer and financial data through preprocessing, visualization, and Machine Learning classification techniques.
+
+<br><br>
+
+<b>Stack:</b> Python • Pandas • Matplotlib • Scikit-Learn
+
+</td>
+
+<td width="50%" align="center">
+
+<h3>📊 Sales Analytics & Predictive Forecasting Platform</h3>
+
+<i>Business intelligence and forecasting dashboard</i>
+
+<br><br>
+
+Transforms historical sales data into meaningful business insights using interactive analytics, visualization, and predictive forecasting.
+
+<br><br>
+
+<b>Stack:</b> Python • Pandas • Matplotlib • TensorFlow
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
 <div align="center">
-
-<div>
-
-### 🛡️ Dataset Poisoning Detection System
-
-AI-powered security system that detects poisoned or manipulated datasets before model training, helping improve data integrity and model reliability.
-
-**Tech Stack**
-
-`Python` • `TensorFlow` • `Scikit-Learn` • `NumPy`
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" width="100%"/>
 </div>
-
-<br>
-
-<div>
-
-### 🎓 Multi-Tier Academic Workflow with RBAC
-
-A role-based academic management platform featuring secure authentication, approval workflows, and hierarchical access control for educational institutions.
-
-**Tech Stack**
-
-`Python` • `FastAPI` • `PostgreSQL`
-
-</div>
-
-<br>
-
-<div>
-
-### 💳 Loan Approval Prediction
-
-A Machine Learning application that predicts loan approval using customer and financial data with preprocessing, visualization, and classification techniques.
-
-**Tech Stack**
-
-`Python` • `Pandas` • `Matplotlib` • `Scikit-Learn`
-
-</div>
-
-<br>
-
-<div>
-
-### 📊 Sales Analytics & Predictive Forecasting Platform
-
-An analytics dashboard that transforms historical sales data into business insights through interactive visualizations and predictive forecasting.
-
-**Tech Stack**
-
-`Python` • `Pandas` • `Matplotlib` • `TensorFlow`
-
-</div>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" width="100%"/>
