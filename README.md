@@ -211,19 +211,34 @@ Transforms historical sales data into meaningful business insights using interac
 </div>
 ## GitHub Analytics & Activity
 
-<div align="center">
+<table align="center">
+<tr>
+
+<td align="center" width="50%">
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Durgesh729&show_icons=true&theme=tokyonight&hide_border=true" />
+
+</td>
+
+<td align="center" width="50%">
+
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Durgesh729&layout=compact&theme=tokyonight&hide_border=true" />
 
-<br><br>
+</td>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Durgesh729&theme=react-dark&hide_border=true"/>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Durgesh729&bg_color=0D1117&color=00F0FF&line=38BDF8&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" width="100%"/>
 </div>
