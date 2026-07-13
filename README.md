@@ -118,8 +118,14 @@ I'm always open to **internships**, **collaborations**, and opportunities where 
 Detects poisoned or manipulated datasets before model training, helping improve data integrity and improve the reliability of Machine Learning models.
 
 <br><br>
+<p align="center">
 
-<b>Stack:</b> Python • TensorFlow • Scikit-Learn • NumPy
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+</p>
 
 </td>
 
@@ -135,7 +141,13 @@ A secure academic workflow system featuring Role-Based Access Control (RBAC), au
 
 <br><br>
 
-<b>Stack:</b> Python • FastAPI • PostgreSQL
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</p>
 
 </td>
 
@@ -155,7 +167,14 @@ Predicts loan approval using customer and financial data through preprocessing, 
 
 <br><br>
 
-<b>Stack:</b> Python • Pandas • Matplotlib • Scikit-Learn
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+</p>
 
 </td>
 
@@ -170,8 +189,14 @@ Predicts loan approval using customer and financial data through preprocessing, 
 Transforms historical sales data into meaningful business insights using interactive analytics, visualization, and predictive forecasting.
 
 <br><br>
+<p align="center">
 
-<b>Stack:</b> Python • Pandas • Matplotlib • TensorFlow
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+</p>
 
 </td>
 
