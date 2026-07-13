@@ -219,7 +219,7 @@ Transforms historical sales data into meaningful business insights using interac
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Durgesh729&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Durgesh729&theme=react-dark&hide_border=true"/>
 
 </div>
 
