@@ -209,3 +209,22 @@ Transforms historical sales data into meaningful business insights using interac
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" width="100%"/>
 </div>
+## GitHub Analytics & Activity
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Durgesh729&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Durgesh729&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Durgesh729&theme=github-dark&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" width="100%"/>
+</div>
