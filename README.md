@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/GITHUB-Durgesh729-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/your-linkedin/">
+<a href="https://www.linkedin.com/in/durgesh-padwal-7999a8287/">
 <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
