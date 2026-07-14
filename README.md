@@ -12,7 +12,7 @@
 
 <p align="center">
 
-<a href="mailto:your_email@gmail.com">
+<a href="mailto:durgeshpadwal729@gmail.com">
 <img src="https://img.shields.io/badge/CONTACT-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
