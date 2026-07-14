@@ -12,10 +12,6 @@
 
 <p align="center">
 
-<a href="mailto:durgeshpadwal729@gmail.com">
-<img src="https://img.shields.io/badge/CONTACT-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
 <a href="https://github.com/Durgesh729">
 <img src="https://img.shields.io/badge/GITHUB-Durgesh729-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
