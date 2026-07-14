@@ -209,6 +209,7 @@ Transforms historical sales data into meaningful business insights using interac
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" width="100%"/>
 </div>
+
 ## GitHub Analytics & Activity
 
 <table align="center">
