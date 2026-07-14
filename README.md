@@ -216,13 +216,14 @@ Transforms historical sales data into meaningful business insights using interac
 
 <td align="center" width="50%">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Durgesh729&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Durgesh729&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats"/>
+
 
 </td>
 
 <td align="center" width="50%">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Durgesh729&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Durgesh729&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages"/>
 
 </td>
 
