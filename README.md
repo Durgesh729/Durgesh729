@@ -6,11 +6,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Machine+Learning;Python+Developer;FastAPI+Enthusiast;Building+Intelligent+Software+Systems;Open+to+Internships+%26+Collaborations" alt="Typing SVG" />
 </a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Durgesh729&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" />
-</p>
+<img
+align="left"
+width="110"
+src="https://raw.githubusercontent.com/Durgesh729/Durgesh729/main/assets/Le%20Petit%20Chat%20_Cat_%20Noir.svg" />
 
-<p align="center">
+<h2>Python Developer</h2>
+
+<img src="https://komarev.com/ghpvc/?username=Durgesh729&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS"/>
+
+<br>
 
 <a href="https://github.com/Durgesh729">
 <img src="https://img.shields.io/badge/GITHUB-Durgesh729-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -19,8 +24,7 @@
 <a href="https://www.linkedin.com/in/durgesh-padwal-7999a8287/">
 <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-</p>
+<br clear="left">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" width="100%"/>
 
 ## About Me
