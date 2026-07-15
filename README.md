@@ -240,3 +240,16 @@ Transforms historical sales data into meaningful business insights using interac
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" width="100%"/>
 </div>
+<h3 align="center">
+3D GitHub Skyline
+</h3>
+<p align="center">
+  <img
+    src="https://github.com/Durgesh729/github-skyline/blob/main/assets/skyline-animated.svg"
+    width="100%"
+    alt="3D GitHub Skyline"
+  />
+</p>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" width="100%"/>
+</div>
