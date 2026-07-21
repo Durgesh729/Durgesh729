@@ -44,7 +44,7 @@ I'm always open to **internships**, **collaborations**, and opportunities where 
 
 </td>
 
-<td width="35%" align="center">
+<td width="36%" align="center">
 
 <img src="assets/giphy.gif" width="240"/>
 
