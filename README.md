@@ -54,7 +54,7 @@ I'm always open to **internships**, **collaborations**, and opportunities where 
 </table>
 
 </div>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## Tech Stack & Tools
 
@@ -103,7 +103,7 @@ I'm always open to **internships**, **collaborations**, and opportunities where 
 
 <br>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
 ## Featured Projects
@@ -211,7 +211,7 @@ Transforms historical sales data into meaningful business insights using interac
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
 ## GitHub Analytics & Activity
@@ -253,5 +253,5 @@ Transforms historical sales data into meaningful business insights using interac
   />
 </p>
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
