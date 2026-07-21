@@ -75,7 +75,7 @@ I'm always open to **internships**, **collaborations**, and opportunities where 
         <a href="https://skillicons.dev">
           <p align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="75" alt="FastAPI"/>
+
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/>
 
@@ -92,8 +92,7 @@ I'm always open to **internships**, **collaborations**, and opportunities where 
       <p align="center">
         <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="75" alt="HTML"/>
         <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="75" alt="CSS"/>
-        <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="75" alt="V"/>
-          <img src="https://skillicons.dev/icons?i=html,css,vercel,git,vscode&theme=dark" alt="Frontend & Cloud"/>
+          <img src="https://skillicons.dev/icons?i=vercel,git,vscode&theme=dark" alt="Frontend & Cloud"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48"/>
         </a>
       </p>
