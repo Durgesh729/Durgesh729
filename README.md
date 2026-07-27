@@ -82,7 +82,8 @@ I'm always open to **internships**, **collaborations**, and opportunities where 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48"/>
-
+<br>
+<img src="https://github.com/Durgesh729/Durgesh729/blob/main/assets/output-onlinegiftools%20(2).gif" width="75" alt="FastAPI"/>
 </p>
         </a>
       </p>
