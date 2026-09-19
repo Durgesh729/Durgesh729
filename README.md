@@ -223,7 +223,7 @@ Transforms historical sales data into meaningful business insights using interac
 
 <td align="center" width="50%">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Durgesh729&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.shion.dev/api?username=Durgesh729&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats"/>
 
 
 </td>
