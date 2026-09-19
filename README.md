@@ -68,6 +68,7 @@ I'm always open to **internships**, **collaborations**, and opportunities where 
       <p align="center">
         <a href="https://skillicons.dev">
           <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="75" alt="Python"/>
+          <img src="https://github.com/Durgesh729/Durgesh729/blob/main/assets/sql-gif-transparent.gif" width="75" alt="Python"/>
         </a>
       </p>
       <h3 align="center">AI, Data Science & Backend</h3>
