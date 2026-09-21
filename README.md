@@ -238,15 +238,6 @@ src="https://github-readme-stats.shion.dev/api/top-langs/?username=Durgesh729&th
 </tr>
 </table>
 
-<br>
-
-<div align="center">
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Durgesh729&bg_color=0D1117&color=00F0FF&line=38BDF8&point=FFFFFF&area=true&hide_border=true"/>
-
-</div>
-
-<br>
 
 <p align="center">
   <img
