@@ -228,9 +228,9 @@ Transforms historical sales data into meaningful business insights using interac
 
 </td>
 
-<td align="center" width="50%">
+<td align="center" width="100%">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Durgesh729&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Durgesh729&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
 
 </td>
 
