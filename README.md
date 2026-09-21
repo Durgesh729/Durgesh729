@@ -228,9 +228,10 @@ Transforms historical sales data into meaningful business insights using interac
 
 </td>
 
-<td align="center" width="100%">
+<td align="center">
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Durgesh729&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
+<img
+src="https://github-readme-stats.shion.dev/api/top-langs/?username=Durgesh729&theme=tokyonight&hide_border=true&layout=compact&card_width=420&langs_count=6"/>
 
 </td>
 
