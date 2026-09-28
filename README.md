@@ -42,12 +42,15 @@ I enjoy working with **Python**, **Machine Learning**, and **Backend Development
 
 I'm always open to **internships**, **collaborations**, and opportunities where I can learn, contribute, and grow as a developer.
 
+
 </td>
 
 <td width="37%" align="center">
 
-<img src="assets/giphy.gif" width="240"/>
-
+<img src="assets/giphy.gif" width="260"/>
+<a href="https://www.codewars.com/users/Durgesh729" target="_blank">
+  <img src="https://www.codewars.com/users/Durgesh729/badges/large" alt="Codewars Badge">
+</a>
 </td>
 
 </tr>
