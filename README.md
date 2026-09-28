@@ -47,7 +47,7 @@ I'm always open to **internships**, **collaborations**, and opportunities where 
 
 <td width="37%" align="center">
 
-<img src="assets/giphy.gif" width="260"/>
+<img src="assets/giphy.gif" width="240"/>
 <a href="https://www.codewars.com/users/Durgesh729" target="_blank">
   <img src="https://www.codewars.com/users/Durgesh729/badges/large" alt="Codewars Badge">
 </a>
