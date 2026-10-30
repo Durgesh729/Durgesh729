@@ -11,7 +11,7 @@ align="left"
 width="110"
 src="https://raw.githubusercontent.com/Durgesh729/Durgesh729/main/assets/Le%20Petit%20Chat%20_Cat_%20Noir.svg" />
 
-<h2>Python Developer</h2>
+<h2>Data Analyst</h2>
 
 <img src="https://komarev.com/ghpvc/?username=Durgesh729&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS"/>
 
